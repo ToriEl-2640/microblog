@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@reach-sh/stdlib": "^0.1.10-rc.1",
+    "formidable": "github:node-formidable/formidable",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
